@@ -1,0 +1,1 @@
+gcc mouse.c -o mouse.exe
